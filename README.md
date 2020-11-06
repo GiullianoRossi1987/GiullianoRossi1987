@@ -7,8 +7,8 @@
 - PHP
 - C# ( I'm not so good in that as I'm in the others)
 - JS (With JQuery, but I don't use it too much)
-- CSS3, HTML5 (But my desing abilities are good pieces of sh** :hankey: )
-- Linux (Debian is my favorite :heart:
+- CSS3, HTML5 (But my design abilities are good pieces of sh** :hankey: )
+- Linux (Debian is my favorite :heart:)
 
 # The next technologies I'll try to learn are:
 - Pearl

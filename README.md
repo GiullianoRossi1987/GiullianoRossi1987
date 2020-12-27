@@ -1,4 +1,5 @@
 ### Hi there My name's Giulliano Rossi
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GiullianoRossi1987&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 ### I'm currently working on my TCC, [ go check it out ](https://github.com/GiullianoRossi1987/lpgp-server)
 # I've a good knowledge about
 - Python

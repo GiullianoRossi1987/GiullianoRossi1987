@@ -1,6 +1,6 @@
 ### Hi there My name's Giulliano Rossi
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GiullianoRossi1987&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
-### I'm currently working on my TCC, [ go check it out ](https://github.com/GiullianoRossi1987/lpgp-new)
+### I finally finished my TCC, [ go check it out ](https://github.com/GiullianoRossi1987/lpgp-new)
 # I've a good knowledge about
 - Python
 - Java
@@ -10,6 +10,7 @@
 - JS (With JQuery, but I don't use it too much)
 - CSS3, HTML5 (But my design abilities are good pieces of sh** :hankey: )
 - Linux (Debian is my favorite :heart:)
+- Shell Script
 
 # The next technologies I'll try to learn are:
 - Pearl

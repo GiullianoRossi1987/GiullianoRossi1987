@@ -11,19 +11,20 @@
 - CSS3, HTML5 (But my design abilities are good pieces of sh** :hankey: )
 - Linux (Debian is my favorite :heart:)
 - Shell Script
+- C++
 
 # The next technologies I'll try to learn are:
 - Pearl
 - Ruby
 - C
 - Spark
-- Excel (Just need to pratice more often)
 
 ## :zap: Fun facts
 - Favorite color: gold (**#fdff00**)
 - Coffee addicted :coffee:
 - Anime fan :japanese_goblin:
 - Easily Irritable
+- Almost a full crackhead about coding
 
 
 <!--

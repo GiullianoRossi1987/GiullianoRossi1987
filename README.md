@@ -23,8 +23,6 @@
 - Favorite color: gold (**#fdff00**)
 - Coffee addicted :coffee:
 - Anime fan :japanese_goblin:
-- Easily Irritable
-- Almost a full crackhead about coding
 
 
 <!--
